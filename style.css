@@ -28,7 +28,8 @@
 }
 .links {
     font-size: 19px;
+    text-align: center;
 }
-.links.serve{
+.serve{
     font-size: 22px;
 }
